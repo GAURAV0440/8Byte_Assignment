@@ -69,4 +69,5 @@ Docker Compose
 
 Alpha Vantage API
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5deb80a-c246-405b-9448-2ec5e48b991e" />
+<img width="1859" height="998" alt="image" src="https://github.com/user-attachments/assets/be13497b-1ee4-4606-a16e-2dff7ca75f93" />
+
