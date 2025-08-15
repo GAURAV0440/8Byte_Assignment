@@ -1,0 +1,20 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore Airflow logs and config
+airflow/
+logs/
+
+# Ignore environment files
+.env
+
+# Ignore Docker system files
+*.pid
+*.db
+
+# VS Code settings
+.vscode/
