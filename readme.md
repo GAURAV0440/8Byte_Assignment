@@ -68,3 +68,5 @@ Python (requests, psycopg2)
 Docker Compose
 
 Alpha Vantage API
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5deb80a-c246-405b-9448-2ec5e48b991e" />
